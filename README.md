@@ -9,7 +9,7 @@ In other words, the false negative is always 0 whereas bloom filters can only sa
 
 ### The Notebook
 
-See [bloom-filter.ipynb](bloom-filter.ipynb).
+See [bloom-filtering.ipynb](bloom-filtering.ipynb).
 
 ### Procedure
 1. Init the array of bits a, initially all 0.
